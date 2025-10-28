@@ -1,0 +1,51 @@
+file veiwer
+PDF presentation maker
+PDF presentation presenter
+comms (T-beam and tts radio)
+text editor
+program luancher
+research tools
+browser
+
+
+
+
+
+file veiwer:
+veiw and open files
+
+PDF presentation maker:
+makes PDFs for presenting later
+
+PDF presentation presenter:
+just goest slide by slide on button press
+
+comms (T-beam and tts radio):
+connects the built in T-beam to send out messages
+connects to the ratio and sends tts vocals on the public channel
+
+text editor:
+just for whiting
+make programs
+
+
+program luancher:
+run programs
+
+
+research tools:
+render image from google maps
+serch property records
+search 
+
+browser:
+browse the internet
+open map.html
+
+settings:
+see ip
+change color setup
+data review
+storage use
+ram use
+CPU use
