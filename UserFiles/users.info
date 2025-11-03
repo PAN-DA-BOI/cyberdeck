@@ -1,0 +1,3 @@
+user1 = [Sable, password, Admin]
+user2 = [Aster, password, Admin]
+user3 = [Guest, password, User]
