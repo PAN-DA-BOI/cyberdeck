@@ -1,0 +1,4 @@
+app1 = ["Notepad", "./Applications/notepad.py"]
+app2 = ["Comms", "./Applications/meshtastic.py"]
+app3 = ["File Viewer", "./Applications/files.py"]
+app4 = ["Browser", "./Applications/browser.py"]
