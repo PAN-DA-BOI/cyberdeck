@@ -1,0 +1,1 @@
+# This file makes the Applications directory a Python package
